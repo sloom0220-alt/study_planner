@@ -1,0 +1,5 @@
+crewai==0.63.5 #agentic framework
+python-dotenv==1.0.0 #env variables
+langchain-openai #to call the LLM
+PyPDF2
+streamlit 
